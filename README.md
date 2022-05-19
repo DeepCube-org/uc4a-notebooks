@@ -1,6 +1,6 @@
-More information regarding this work can be found in [this link](https://ieeexplore.ieee.org/document/9517282)
+More information regarding this work can be found in [this link](https://ieeexplore.ieee.org/document/9517282).
 
-ResNet50SimCLR.pt contains a pretrained model that can be used directly for inference.
+ResNet50SimCLR.pt contains a pretrained model that can be used directly for inference as shown in `UC4aDemonstration.ipynb`.
 
 More encoders, pretrained in a self-supervised learning fashion, can be found [here](https://www.dropbox.com/s/qcieo92cdyqtjgp/models.zip?dl=0).
 
@@ -20,4 +20,4 @@ More encoders, pretrained in a self-supervised learning fashion, can be found [h
   `main.py` handles both the self-supervised learning pretraining as well as the supervised training of the linear classifier. 
 
 
-Examples of the data and the class activation mappings can be found in `UC4aDemonstration.ipynb`
+Examples of the data and the class activation mappings can be found in `UC4aDemonstration.ipynb`.
